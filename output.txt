@@ -1,0 +1,17 @@
+
+[API failed: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}]
+
+Demo output:
+
+Subject: Follow-Up After Our Meeting
+
+Dear Sarah,
+
+Thank you for taking the time to meet with me. I appreciate the opportunity to discuss your interest in our AI dashboard product.
+
+Based on our conversation, I understand that you would like more information about pricing, onboarding, and Shopify integration. As a next step, I will send the pricing details and coordinate a demo for next week.
+
+Please let me know if there is anything else you would like me to include.
+
+Best regards,
+Sales Representative
